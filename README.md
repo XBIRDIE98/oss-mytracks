@@ -13,4 +13,4 @@ And that pretty much sums up where Android is heading: Closed Source. :(
 
 (Of course, it wasn't really open to being with, but it looks like open is out. Funny, since Chromium is headed in the other direction.)
 
-Now I'll get of my soapbox. 
+[Now I'll get off my soapbox.]
