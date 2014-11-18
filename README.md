@@ -7,3 +7,4 @@ The Message in Question: "We no longer update the open source version of My Trac
 This is the sad end of MyTracks.
 It still exists, but as a closed-source, Material Design app, that removed the API and the ability to share files outside of Drive.
 And that pretty much sums up where Android is heading: Closed Source. :(
+(Of course, it wasn't really open to being with, but it looks like open is out. Funny, since Chromium is headed in the other direction.)
